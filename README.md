@@ -4,10 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramdhan-mq&label=Profile%20views&color=0e75b6&style=flat" alt="ramdhan-mq" /> </p>
 
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **Basic Python**
-
+- 🌱 I’m currently learning **WEBSITE and MOBILE**
 - 📫 How to reach me **ramdhanqolbi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
