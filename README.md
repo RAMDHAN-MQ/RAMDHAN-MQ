@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RAMDHAN QOLBI</h1>
+<h1 align="center">Hi 👋, I'm RAMDHAN MAULANA QOLBI</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" src="https://media.giphy.com/media/UEJ6DQQp68LJSnyaBb/giphy.gif" width="300">
 
